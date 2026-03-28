@@ -73,6 +73,12 @@ header {
     white-space: nowrap;
 }
 
+.brand-logo {
+    height: 44px;
+    width: auto;
+    display: block;
+}
+
 .brand-nw {
     font-size: 1.35rem;
     font-weight: 800;
@@ -84,7 +90,7 @@ header {
     font-size: 1.35rem;
     font-weight: 800;
     color: var(--green);
-    margin-left: -4px;
+    margin-left: -8px;
 }
 
 .brand-name {
