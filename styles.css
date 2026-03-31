@@ -525,9 +525,7 @@ header {
         grid-template-columns: 1fr;
         gap: 36px;
     }
-}
-
-@media (max-width: 680px) {
+    
     .navbar {
         padding: 0 16px;
     }
